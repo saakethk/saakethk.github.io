@@ -1,14 +1,17 @@
 ---
-title: "What is Nous?"
-date: 2024-11-26 00:00:00 -0500
+title: "Expanding Nous"
+date: 2025-05-05 00:00:00 -0500
 categories: [Nous]
-tags: [Project, Fullstack]
+tags: [Updates, Fullstack, Development, Project]
 ---
 
-Nous is a project that I have been working on extensively for the past 4 months. I originally came up with the idea in 10th grade when I was in journalism. This class instilled within me a facination with the social aspect of sharing news.
+It has been a while since I have updated this blog. I wanted to dedicate myself to improving my coding knowledge and focusing on my time this summer on the items I have listed below.
 
-As I delved into the news industry and how it functioned, I learned about the importance of keeping journalism alive. I realized that journalism was crucial to the government and that it helped to promote transparency. 
+I plan on splitting up [Nous](/posts/What-is-Nous/) into two main parts: finance, and news. Essentially I will be able to address two major passions of mine as part of one project. I plan on breaking down both of these applications into smaller projects.
 
-However, I also learned that present-day journalism doesn't always follow the strict guidelines and standard set by conventional news. This can be good but it can also be bad. Thats why I decided to create a social news platform that encouraged tracability because misinformation tends to develop as a lack of clear communication.
+The long term vision for Nous Finance is for it to be a showcase of a profitable algorithmic trading algorithm which is able to generate consistent profits. The main essence of it will be based on my past year of [research](/posts/Implementing-Fundamental-Stock-Factors-for-Improved-Stock-Forecasting)
 
-Currently, Nous only has basic functionality and is very limited but I plan to add numerous features like spotify integration, audio transcription, and a writing portal. I will continue to add articles about new features and updates about the product on this blog. The github for Nous is public at saakethk/nous-news. Comment down below if you want to see any specific features and thank you for reading this post.
+The long term vision for Nous News is for it to be a all-in-one platform which allows writers to publish news articles that are verified and allows readers to see articles and sources on an in-depth level.
+
+Overall, this post is a way for me to express my personal commitment to working on these projects outlined. Starting May 16th, I dedicate myself to publishing atleast one post per week outlining the progress I have made on the projects outlined above.
+
