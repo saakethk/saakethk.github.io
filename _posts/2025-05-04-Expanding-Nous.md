@@ -9,7 +9,7 @@ It has been a while since I have updated this blog. I wanted to dedicate myself 
 
 I plan on splitting up [Nous](/posts/What-is-Nous/) into two main parts: finance, and news. Essentially I will be able to address two major passions of mine as part of one project. I plan on breaking down both of these applications into smaller projects.
 
-The long term vision for Nous Finance is for it to be a showcase of a profitable algorithmic trading algorithm which is able to generate consistent profits. The main essence of it will be based on my past year of [research](/posts/Implementing-Fundamental-Stock-Factors-for-Improved-Stock-Forecasting)
+The long term vision for Nous Finance is for it to be a showcase of a profitable algorithmic trading algorithm which is able to generate consistent profits. The main essence of it will be based on my past year of research.
 
 The long term vision for Nous News is for it to be a all-in-one platform which allows writers to publish news articles that are verified and allows readers to see articles and sources on an in-depth level.
 
