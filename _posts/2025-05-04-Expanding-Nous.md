@@ -7,7 +7,7 @@ tags: [Updates, Fullstack, Development, Project]
 
 It has been a while since I have updated this blog. I wanted to dedicate myself to improving my coding knowledge and focusing on my time this summer on the items I have listed below.
 
-I plan on splitting up [Nous](/posts/What-is-Nous/) into two main parts: finance, and news. Essentially I will be able to address two major passions of mine as part of one project. I plan on breaking down both of these applications into smaller projects.
+I plan on splitting up Nous into two main parts: finance, and news. Essentially I will be able to address two major passions of mine as part of one project. I plan on breaking down both of these applications into smaller projects.
 
 The long term vision for Nous Finance is for it to be a showcase of a profitable algorithmic trading algorithm which is able to generate consistent profits. The main essence of it will be based on my past year of research.
 
